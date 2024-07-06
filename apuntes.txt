@@ -3,3 +3,6 @@ git restore --source codigo del comimit(eb2c39b) nombre del archivo(index.html)
 
 // Crear una rama
 git checkout -b nombre de la rama (desarrollo)
+
+// Regrsar a la rama main
+git switch main

@@ -9,3 +9,6 @@ git switch rama(main)
 
 // Para actualizar una rama debemos pararnos en la rama a actualizar
 git merge rama que quiero traer la actualizacion(desarrollo)
+
+// Para actualizar el repo desde otra rama que no sea main
+git push origin rama(desarrollo)

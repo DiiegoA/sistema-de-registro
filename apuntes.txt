@@ -1,0 +1,1 @@
+git restore --source codigo del comimit(eb2c39b) nombre del archivo(index.html)

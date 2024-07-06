@@ -2,7 +2,10 @@
 git restore --source codigo del comimit(eb2c39b) nombre del archivo(index.html)
 
 // Crear una rama
-git checkout -b nombre de la rama (desarrollo)
+git checkout -b nombre de la rama(desarrollo)
 
-// Regrsar a la rama main
-git switch main
+// Ubicarme en una rama cualquiera
+git switch rama(main)
+
+// Para actualizar una rama debemos pararnos en la rama a actualizar
+git merge rama que quiero traer la actualizacion(desarrollo)
